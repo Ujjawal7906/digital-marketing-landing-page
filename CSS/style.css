@@ -1,0 +1,239 @@
+*{
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+header {
+    z-index: 1030;
+}
+
+.col-lg-2-4 {
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+
+.banner-content h1{
+    font-size: 52px;
+    font-weight: 700;
+    font-style: bold;
+    
+}
+
+.banner-content h1 span{
+    color: #2699FB;
+    background: url("../Images/border.png") no-repeat bottom;
+}
+
+.banner-content p{
+    font-size: 22px;
+    width: 552px;
+    color: #0A2134;
+    font-weight: 400;
+}
+
+.banner-content ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 22px;
+    color: #0A2134;
+    font-weight: 400;
+}
+
+.banner-content ul li i{
+    color: #2699FB;
+    margin-right: 10px;
+}
+
+.banner-button .btn-outline-success{
+    color: black;
+    
+}
+
+.banner-button button{
+    width: 250px;
+  height: 50px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.banner-button .btn-outline-success i{
+    margin-right: 8px;
+}
+
+.banner-form{
+    padding: 40px;
+    border-radius: 14px;
+}
+
+.banner-form h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.banner-form p{
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.details-content h1{
+    color: #2699FB;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.details-content p{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.highlights{
+    background-color: #edeff3;
+}
+
+.highlights h1{
+    font-size: 36px;
+    font-weight: 700;
+    color: #0A2134;
+}
+
+.highlights p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #0A2134;
+}
+
+.highlightsContent h4{
+    font-size: 20px;
+    font-weight: 600;
+    color: #0A2134;
+}
+
+.highlightsContent p{
+     font-size: 15px;
+     color: #0A2134;
+     font-weight: 400;
+}
+
+.carrer h1{
+    font-size: 44px;
+    font-weight: 700;
+    color: #0A2134;
+}
+
+.carrer p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #0A2134;
+}
+
+.carrerContent img{
+    margin: 20px 0px 17px 2px;
+    border: 2px solid rgb(185, 164, 164);
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.7);
+}
+
+.carrerContent h5{
+    font-size: 18px;
+    font-weight: 600;
+    color: #0A2134;
+    margin: 7px 0px 7px 0px;
+}
+
+.carrerContent p{
+    font-size: 15px;
+    font-weight: 400;
+    color: #0A2134;
+}
+
+/* Certified section styles */
+.certified h2{
+    font-size: 34px;
+    font-weight: 700;
+    color: #0A2134;
+}
+
+.certified .lead{
+    color: #6b7280;
+}
+
+.certified .list-group-item .icon{
+    width: 44px;
+    height: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cert-card{
+    max-width: 360px;
+    background: linear-gradient(180deg, #ffffff, #f8fbff);
+}
+
+.faq h2{
+    font-size: 44px;
+    font-weight: 700;
+    color: #0A2134;
+}
+
+.faq p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #0A2134;
+}
+
+.whyLearn{
+    background-color: #F7FAFF;
+}
+
+.whyLearn h2{
+    font-size: 36px;
+    font-weight: 700;
+    color: #0A2134;
+}
+
+.whyLearn p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #0A2134;
+}
+
+.whyLearnContent h3{
+    font-size: 20px;
+    font-weight: 600;
+    color: #0A2134;
+}
+
+.whyLearnContent p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #0A2134;
+}
+
+.startcourse{
+background-image: url(../Images/bg1.png);
+border-radius: 15px;
+}
+
+.startcourseContent h2{
+    font-size: 44px;
+    font-weight: 700;
+    color: white;
+}
+
+.startcourseContent p{
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+}
+
+.companies h2{
+    font-size: 36px;
+    font-weight: 700;
+    color: #0A2134;
+}
+
+.footer{
+    background-color: #0A2540;
+}

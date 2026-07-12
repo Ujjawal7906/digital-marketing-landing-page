@@ -1,0 +1,138 @@
+@media (max-width: 770px) {
+  .banner-content h1 {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  .banner-content p {
+    font-size: 18px;
+    width: 100%;
+    color: #0A2134;
+    font-weight: 400;
+  }
+
+  .banner-content ul {
+    font-size: 18px;
+  }
+
+  .banner-button button {
+    font-size: 11px;
+  }
+
+  .carrer h1 {
+    font-size: 35px;
+  }
+
+  .carrer p {
+    font-size: 15px;
+  }
+
+  .faq h2 {
+    font-size: 27px;
+    font-weight: 600;
+  }
+
+  .faq p {
+    font-size: 16px;
+  }
+
+  .whyLearn h2{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.whyLearn p{
+    font-size: 16px;
+   
+}
+
+.startcourse{
+  width: 100%;
+}
+
+.image1, .image2{
+  display: none;
+}
+
+.startcourseContent h2{
+  font-size: 33px;
+}
+
+.startcourseContent p{
+  font-size: 16px;
+}
+
+.companies h2{
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.companyName img{
+  width: 100%;
+}
+}
+
+
+@media (max-width: 575px) {
+  .outer-button {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    margin-bottom: 20px;
+    justify-content: center !important;
+  }
+
+  .banner-content h1 {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  .banner-content h1 span {
+    color: #2699fb;
+    background: url("../Images/border.png") no-repeat bottom;
+  }
+
+  .banner-content p {
+    font-size: 25px;
+    width: 100%;
+    color: #0A2134;
+    font-weight: 400;
+  }
+
+  .banner-button {
+    flex-direction: column;
+  }
+
+  .banner-button button {
+    width: 100%;
+    font-size: 21px;
+  }
+
+  .details-content h1 {
+    color: #2699FB;
+    font-size: 25px;
+    font-weight: 700;
+  }
+
+  .details-content p {
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  .highlights h1 {
+    font-size: 28px;
+
+  }
+
+  .highlights p {
+    font-size: 15px;
+  }
+
+}
+
+@media (max-width: 767px) {
+  .cert-card {
+    max-width: 100%;
+  }
+}
